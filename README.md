@@ -10,6 +10,6 @@ I'm Sagar from Nepal, and I do content on Design and Development. I really enjoy
 * 💻 HTML, CSS, JS
 
 ## Examples of Work
-<img src="https://timalsenasagar.com.np/project" width="512" >
+<img src="https://timalsenasagar.com.np/project"  >
 
 
