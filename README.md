@@ -1,13 +1,15 @@
-### Hi there 👋, my name is Sagar
-#### I am Web Developer & Mobile App Developer
-![I am Web Developer & Mobile App Developer](https://github.com/Sagar1555/shitalwebsite/blob/master/sagartimlasena/img/profile.jpg)
+![Design and Development](https://github.com/Sagar1555/timalsenasagar.com.np/blob/master/img/profile.jpg)
 
+# Sagar Timalsena
+I'm Adrian from Australia, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. 
 
-Skills:  HTML / CSS/ JS/ Flutter/ React Js
+## Skills and Experience
+* ⚛ React
+* ⚛ Flutter
+* 📱 React Native
+* 💻 HTML, CSS, JS
 
-- 🔭 I’m currently working on different project.
-- 🔭 For my new project please visit https://timalsenasagar.com.np/project
-
-
+## Examples of Work
+<img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" >
 
 
