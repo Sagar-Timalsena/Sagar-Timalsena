@@ -5,13 +5,14 @@ I'm Sagar from Nepal, and I do content on Design and Development. I really enjoy
 
 ## Skills and Experience
 * ⚛ Bootstrap
-*   Flutter
-* 📱 React Native
+*  Flutter
 * 💻 HTML, CSS, JS
 
 ## Examples of Work 
 Flutter Project Output:
 http://www.timalsenasagar.com.np/saagar/Images/Profile.png
+
+
 Web Development:
 
 
