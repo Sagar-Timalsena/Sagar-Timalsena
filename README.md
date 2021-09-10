@@ -1,6 +1,6 @@
 ![Image](https://th.bing.com/th/id/OIP.6nMDPk6lvz_mBpl-M3ktXwHaEK?pid=ImgDet&rs=1)
 
-# <strong> <i> Sagar Timalsena </i> </strong>
+# 🇳🇵 <strong> <i> Sagar Timalsena </i> </strong>
 
 I'm Sagar from Nepal, and I do content on Design and Development. I really enjoy learning Programming languages and frameworks(Flutter), as well as work in WordPress. I also enjoy ui, ux, and design in general. 
 
@@ -20,6 +20,7 @@ I'm Sagar from Nepal, and I do content on Design and Development. I really enjoy
 <a href="https://www.facebook.com/saagarjr7/">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+
 <br/>
 <br/>
 
