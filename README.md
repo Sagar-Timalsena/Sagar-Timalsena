@@ -2,7 +2,7 @@
 ![Image](https://th.bing.com/th/id/OIP.6nMDPk6lvz_mBpl-M3ktXwHaEK?pid=ImgDet&rs=1)
 # 🇳🇵 <strong> <i> Sagar Timalsena </i> </strong>
 
-I'm Sagar from Nepal, and I do content on Design and Development. I really enjoy learning Programming languages and frameworks(Flutter), as well as work in WordPress. I also enjoy ui, ux, and design in general. 
+I'm Sagar from Nepal, and I do content on Design and Development. I really enjoy learning Programming languages and frameworks, as well as work in Develpoment and Operation (DevOps). Graphics Designer, Finding Bug in Website Reporting them is main interest.  
 
 <br>
 <a href="https://twitter.com/@sagarr679">
