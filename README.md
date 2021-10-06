@@ -1,5 +1,9 @@
 
-![Image](https://th.bing.com/th/id/OIP.6nMDPk6lvz_mBpl-M3ktXwHaEK?pid=ImgDet&rs=1)
+![Image](https://th.bing.com/th/id/OIP.6nMDPk6lvz_mBpl-M3ktXwHaEK?pid=ImgDet&rs=1) 
+```
+    Console.WriteLine("Hey Buddy!");
+```
+
 # 🇳🇵 <strong> <i> Sagar Timalsena </i> </strong>
 
 I'm Sagar from Nepal, and I do content on Design and Development. I really enjoy learning Programming languages and frameworks, as well as work in Develpoment and Operation (DevOps). Graphics Designer, Finding Bug in Website Reporting them is main interest.  
@@ -26,7 +30,7 @@ I'm Sagar from Nepal, and I do content on Design and Development. I really enjoy
 
 ## Skills and Experience
 * ⚛ Bootstrap
-*  Flutter
+*  ASP.NET
 * 💻 HTML, CSS, JS
 
 ## Examples of Work 
