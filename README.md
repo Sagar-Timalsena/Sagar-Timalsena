@@ -4,9 +4,9 @@
 
 ```
 
-                                           Console.WriteLine("Hey Buddy!");
-    
-    
+                                        Console.WriteLine("Hey Buddy!"); 
+
+
 ```
 
 # 🇳🇵 <strong> <i> Sagar Timalsena </i> </strong>
