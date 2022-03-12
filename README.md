@@ -4,7 +4,7 @@
 
 ```
 
-                                        Console.WriteLine("Hey Buddy!"); 
+                                        Console.log("Hey Buddy!"); 
 
 
 ```
