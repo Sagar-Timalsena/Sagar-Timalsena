@@ -34,8 +34,6 @@ I'm Sagar from Nepal, and I do content on Design and Development. I really enjoy
 <br/>
 
 # Skills and Experience
-* ⚛ Bootstrap
-*  ASP.NET
 * 💻 HTML, CSS, JS
 
 # Examples of Work 
