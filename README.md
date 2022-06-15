@@ -21,8 +21,20 @@ ___
 📌 <strong> <i> Github  </i> </strong>
 </br>
 
-![Sagar Github Stats](
-https://github-readme-stats.vercel.app/api?username=Sagar1555&theme=radical)
+<h3>Sagar Github Stats</h3>
+<p align='center'> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sagar1555&show_icons=true&locale=en&layout=compact&theme=chartreuse-white" alt="Sagar1555"/> </p>
+
+---
+
+### Most Used Language 
+<p align='center'> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sagar1555&show_icons=true&locale=en&layout=compact&theme=chartreuse-white" alt="Sagar1555" /> </p>
+
+---
+
+<p align='center'>  
+   <img align="center" src="https://github-profile-trophy.vercel.app/?username=Sagar1555&theme=juicyfresh&no-bg=true" alt="Sagar1555" />  
+</p>
+
 
 
 
@@ -74,11 +86,6 @@ Personal Site
 ANB Network
 
 ![ANB/Bagmati Network](https://github.com/Sagar1555/Sagar1555/blob/main/ANB.png)
-
-### React Js Project 
-
-
-Coming Soon 🔜 
 
 ___
 
