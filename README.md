@@ -5,7 +5,7 @@
 
 ```
 
-                                        Console.log("Hey Buddy!"); 
+                                        Console.log("Hey Coder!"); 
 
 
 ```
