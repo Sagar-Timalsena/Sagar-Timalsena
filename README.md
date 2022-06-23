@@ -1,4 +1,4 @@
-![An illustration showing a variety of differently themed Octocats. Monuments from different cities are indicated in the background like the Space Needle, Berlin Fernsehturm and Transamerica Pyramid.](https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg)
+
 
 <!-- ![Image](https://th.bing.com/th/id/OIP.6nMDPk6lvz_mBpl-M3ktXwHaEK?pid=ImgDet&rs=1) 
  -->
@@ -35,6 +35,8 @@ ___
    <img align="center" src="https://github-profile-trophy.vercel.app/?username=Sagar1555&theme=juicyfresh&no-bg=true" alt="Sagar1555" />  
 </p>
 
+
+![Saagar Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sagar1555&custom_title=Saagar%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=f5f5f5&hide_border=true&line=d1a01f&point=c58545)
 
 
 
