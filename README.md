@@ -22,21 +22,21 @@ ___
 </br>
 
 <h3>Sagar Github Stats</h3>
-<p align='center'> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sagar1555&show_icons=true&locale=en&layout=compact&theme=chartreuse-white" alt="Sagar1555"/> </p>
+<p align='center'> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sagar-Timalsena&show_icons=true&locale=en&layout=compact&theme=chartreuse-white" alt="Sagar-Timalsena"/> </p>
 
 ---
 
 ### Most Used Language 
-<p align='center'> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sagar1555&show_icons=true&locale=en&layout=compact&theme=chartreuse-white" alt="Sagar1555" /> </p>
+<p align='center'> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sagar-Timalsena&show_icons=true&locale=en&layout=compact&theme=chartreuse-white" alt="Sagar-Timalsena" /> </p>
 
 ---
 
 <p align='center'>  
-   <img align="center" src="https://github-profile-trophy.vercel.app/?username=Sagar1555&theme=juicyfresh&no-bg=true" alt="Sagar1555" />  
+   <img align="center" src="https://github-profile-trophy.vercel.app/?username=Sagar-Timalsena&theme=juicyfresh&no-bg=true" alt="Sagar-Timalsena" />  
 </p>
 
 
-![Saagar Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sagar1555&custom_title=Saagar%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=f5f5f5&hide_border=true&line=d1a01f&point=c58545)
+![Saagar Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sagar-Timalsena&custom_title=Saagar%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=f5f5f5&hide_border=true&line=d1a01f&point=c58545)
 
 
 
@@ -63,7 +63,7 @@ ___
 <a href="https://www.linkedin.com/in/saagarr/">
   <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/Sagar1555">
+<a href="https://github.com/Sagar-Timalsena">
   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.instagram.com/______.sagar.____/">
@@ -83,11 +83,11 @@ ___
 
 Personal Site
 
-![Personal Site](https://github.com/Sagar1555/Sagar1555/blob/main/personal%20Website.PNG)
+![Personal Site](https://github.com/Sagar-Timalsena/Sagar-Timalsena/blob/main/personal%20Website.PNG)
 
 ANB Network
 
-![ANB/Bagmati Network](https://github.com/Sagar1555/Sagar1555/blob/main/ANB.png)
+![ANB/Bagmati Network](https://github.com/Sagar-Timalsena/Sagar-Timalsena/blob/main/ANB.png)
 
 ___
 
