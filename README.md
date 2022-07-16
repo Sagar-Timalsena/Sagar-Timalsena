@@ -1,21 +1,23 @@
 
-
-<!-- ![Image](https://th.bing.com/th/id/OIP.6nMDPk6lvz_mBpl-M3ktXwHaEK?pid=ImgDet&rs=1) 
- -->
-
 ```
 
                                         Console.log("Hey Coder!"); 
 
 
 ```
-___
+
+
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
+
+
 
 # 🇳🇵 <strong> <i> Sagar Timalsena </i> </strong>
 
 I'm Sagar from Nepal, and I do content on Design and Development. I really enjoy learning Programming languages and frameworks, as well as work in Develpoment and Operation (DevOps). Graphics Designer, Finding Bug in Website Reporting them is main interest.  
 
-___
+
+
 
 </br>
 📌 <strong> <i> Github  </i> </strong>
@@ -24,12 +26,12 @@ ___
 <h3>Sagar Github Stats</h3>
 <p align='center'> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sagar-Timalsena&show_icons=true&locale=en&layout=compact&theme=chartreuse-white" alt="Sagar-Timalsena"/> </p>
 
----
+
 
 ### Most Used Language 
 <p align='center'> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sagar-Timalsena&show_icons=true&locale=en&layout=compact&theme=chartreuse-white" alt="Sagar-Timalsena" /> </p>
 
----
+
 
 <p align='center'>  
    <img align="center" src="https://github-profile-trophy.vercel.app/?username=Sagar-Timalsena&theme=juicyfresh&no-bg=true" alt="Sagar-Timalsena" />  
@@ -40,7 +42,7 @@ ___
 
 
 
-___
+
 
 ### Languages and Tools
 
@@ -89,7 +91,6 @@ ANB Network
 
 ![ANB/Bagmati Network](https://github.com/Sagar-Timalsena/Sagar-Timalsena/blob/main/ANB.png)
 
-___
 
 
 
@@ -99,7 +100,6 @@ ___
 
 </div>
 
-___
 
 # Lets Build Something 
 
