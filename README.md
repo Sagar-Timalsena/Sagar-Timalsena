@@ -1,4 +1,4 @@
-<img src="https://github.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/blob/main/Akshat%20Rastogi%20(13).png">
+
 ```
 
                                         Console.log("Hey Coder!"); 
