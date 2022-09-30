@@ -1,7 +1,8 @@
 
 ```
-
-                                        Console.log("Hey Coder!"); 
+                
+                                        Console.WriteLine(Hello Coder);
+                                        Console.log(" Do Nothing"); 
 
 
 ```
