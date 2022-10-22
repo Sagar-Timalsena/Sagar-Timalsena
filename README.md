@@ -1,10 +1,6 @@
 
-```
-                
-                                        Console.WriteLine(Hello Coder);
-                                        
-
-
+```                
+                                        Console.WriteLine(Hello Coder);                                        
 ```
 
 
