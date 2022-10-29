@@ -11,7 +11,7 @@
 
 # 🇳🇵 <strong> <i> Sagar Timalsena </i> </strong>
 
-I'm Sagar from Nepal, and I do content on Design and Development. I really enjoy learning Programming languages and frameworks, as well as work in Develpoment and Operation (DevOps). Graphics Designer.
+I'm Sagar from Nepal, I really enjoy learning Programming languages and frameworks, as well as work in Develpoment and Operation (DevOps). Graphics Designer.
 
 
 
