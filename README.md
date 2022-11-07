@@ -21,7 +21,7 @@ I'm Sagar from Nepal, I really enjoy learning Programming languages and framewor
 </br>
 
 <h3>Sagar Github Stats</h3>
-<p align='center'> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sagar-Timalsena&show_icons=true&locale=en&layout=compact&theme=chartreuse-white" alt="Sagar-Timalsena"/> </p>
+<p align='center'> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sagar-Timalsena&show_icons=true&locale=np&layout=compact&theme=chartreuse-black" alt="Sagar Timalsena"/> </p>
 
 
 
