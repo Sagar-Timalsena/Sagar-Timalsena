@@ -30,9 +30,7 @@ I'm Sagar from Nepal, I really enjoy learning Programming languages and framewor
 
 
 
-<p align='center'>  
-   <img align="center" src="https://github-profile-trophy.vercel.app/?username=Sagar-Timalsena&theme=juicyfresh&no-bg=true" alt="Sagar-Timalsena" />  
-</p>
+
 
 
 ![Saagar Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sagar-Timalsena&custom_title=Saagar%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=f5f5f5&hide_border=true&line=d1a01f&point=c58545)
