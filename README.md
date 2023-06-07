@@ -1,111 +1,45 @@
-![](assets/header.png)
-```                
-                                        Console.WriteLine(Hello Coder);                                        
-```
-
+# Sagar Timalsena
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
+I'm Sagar from Nepal, and I enjoy learning programming languages and frameworks, as well as working in Development and Operations (DevOps). I'm also a graphics designer.
 
+## GitHub Stats
 
+![Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sagar-Timalsena&show_icons=true&locale=en&layout=compact&theme=chartreuse-white)
 
-# 🇳🇵 <strong> <i> Sagar Timalsena </i> </strong>
+## Most Used Language
 
-I'm Sagar from Nepal, I really enjoy learning Programming languages and frameworks, as well as work in Develpoment and Operation (DevOps). Graphics Designer.
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Sagar-Timalsena&show_icons=true&locale=en&layout=compact&theme=chartreuse-white)
 
+## Languages and Tools
 
+- Node.js
+- MySQL
+- Git
+- Terminal
+- JavaScript
+- CSS
 
+## Social Media
 
-</br>
-📌 <strong> <i> Github  </i> </strong>
-</br>
+[![Twitter](https://img.shields.io/twitter/follow/sagarr679?style=social)](https://twitter.com/sagarr679)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saagarr/)
+[![GitHub](https://img.shields.io/github/followers/Sagar-Timalsena?label=follow&style=social)](https://github.com/Sagar-Timalsena)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/______.sagar.____/)
+[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/saagarjr7/)
 
-<h3>Sagar Github Stats</h3>
-<p align='center'> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sagar-Timalsena&show_icons=true&locale=en&layout=compact&theme=chartreuse-white" alt="Sagar-Timalsena"/> </p>
+## Examples of Work
 
-
-
-### Most Used Language 
-<p align='center'> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sagar-Timalsena&show_icons=true&locale=en&layout=compact&theme=chartreuse-white" alt="Sagar-Timalsena" /> </p>
-
-
-
-<p align='center'>  
-   <img align="center" src="https://github-profile-trophy.vercel.app/?username=Sagar-Timalsena&theme=juicyfresh&no-bg=true" alt="Sagar-Timalsena" />  
-</p>
-
-
-![Saagar Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sagar-Timalsena&custom_title=Saagar%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=f5f5f5&hide_border=true&line=d1a01f&point=c58545)
-
-
-
-
-
-### Languages and Tools
-
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-
-</br>
-
-
-# Social Media 
-<br>
-<a href="https://twitter.com/@sagarr679">
-  <img align="left" alt="Sagar's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/saagarr/">
-  <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/Sagar-Timalsena">
-  <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.instagram.com/______.sagar.____/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/saagarjr7/">
-  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-
-<br/>
-<br/>
-
-
-# Examples of Work 
-
-<h1> Web Development: </h1>
-
-Personal Site
+### Personal Site
 
 ![Personal Site](https://github.com/Sagar-Timalsena/Sagar-Timalsena/blob/main/personal%20Website.PNG)
 
-ANB Network
+### ANB Network
 
 ![ANB/Bagmati Network](https://github.com/Sagar-Timalsena/Sagar-Timalsena/blob/main/ANB.png)
 
+### Holopin Board
 
-
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
-
-### Helopin Board
-[![@Sagar's Holopin board](https://holopin.io/api/user/board?user=sagar34)](https://holopin.io/@sagar34)
-</p>
-
-
-# Lets Build Something 
-
-![Dino](https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif)
-
-try webhooks
-
+[![Sagar's Holopin board](https://holopin.io/api/user/board?user=sagar34)](https://holopin.io/@sagar34)
 
