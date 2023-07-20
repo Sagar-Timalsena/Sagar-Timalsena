@@ -28,12 +28,11 @@ With my passion for programming and dedication to continuous improvement, I stri
 
 ## Languages and Tools
 
-- Node.js
-- MySQL
+- JQuery / JavaScript
+- MySQL / Ms-Sql
 - Git
-- Terminal
-- JavaScript
-- CSS
+-  C #
+- HTML & CSS
 
 ## Social Media
 
