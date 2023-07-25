@@ -56,7 +56,3 @@ With my passion for programming and dedication to continuous improvement, I stri
 
 [![Sagar's Holopin board](https://holopin.io/api/user/board?user=sagar34)](https://holopin.io/@sagar34)
 
-
-### Holopin Board
-
-[![Sagar's Holopin board](https://holopin.io/api/user/board?user=sagar34)](https://holopin.io/@sagar34)
