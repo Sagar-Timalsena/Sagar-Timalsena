@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=yes">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>SAAGAR </title>
+  <link rel="icon" type="image/png" href="img/profile.jpg">
+
+  <!-- Bootstrap core CSS -->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom fonts for this template -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@100&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet">
+  <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
+
+  <head>
+    <!-- Add Font Awesome 5 CSS link -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
+    <!-- Import the OpenAI JavaScript library -->
+    <script src="https://unpkg.com/@openai/openai-js@0.5.1/dist/openai.min.js"></script>
+
+
+
+
+  </head>
+
+
+  <!-- Custom styles for this template -->
+  <link href="css/resume.min.css" rel="stylesheet">
+  <style>
+    /* Style for the input box */
+    #user-input {
+      width: 100%;
+      height: 100px;
+      /* Adjust the height as needed */
+      font-size: 16px;
+      padding: 10px;
+      box-sizing: border-box;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+
+    /* Style for the "Ask" button */
+    button {
+      font-size: 16px;
+      padding: 10px 20px;
+      margin-top: 10px;
+      border: none;
+      background-color: #007bff;
+      color: #fff;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    /* Style for the output box */
+    #chat-output {
+      width: 100%;
+      min-height: 200px;
+      /* Adjust the height as needed */
+      font-size: 18px;
+      padding: 10px;
+      box-sizing: border-box;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      margin-top: 20px;
+      background-color: #f5f5f5;
+    }
+
+    #about,
+    #chat-output {
+      -webkit-user-select: none;
+      /* Safari */
+      -moz-user-select: none;
+      /* Firefox */
+      -ms-user-select: none;
+      /* IE/Edge */
+      user-select: none;
+    }
+  </style>
+</head>
+
+<body id="page-top">
+
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="sideNav">
+    <a class="navbar-brand js-scroll-trigger" href="#page-top">
+      <span class="d-block d-lg-none">Saagar </span>
+      <span class="d-none d-lg-block">
+        <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/profile.jpg" alt="img">
+      </span>
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+      aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#about">About</a>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#education">Education</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#skills">Skills</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#chat-output">Ask Me </a>
+        </li>
+
+      </ul>
+    </div>
+  </nav>
+
+  <div class="container-fluid p-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="about">
+      <div class="w-100">
+        <h1 class="mb-0">Saagar
+        </h1>
+        <div class="subheading mb-5">Bhattedanda,Lalitpur <br>
+          <a href="mailto:stimalsena155@gmail.com">st*******@gmail.com</a>
+        </div>
+        <p class="lead mb-5">Hey there, I'm Saagar! A passionate tech enthusiast with a keen interest in software
+          development and cloud computing. 💻☁️ I recently graduated, and I'm thrilled to embark on the next phase of my
+          journey.</br></br>
+
+          During my time as a student, I honed my skills in C# programming, and it's become one of my favorite languages
+          to work with. 🚀 It empowers me to create exciting applications and tackle real-world challenges with
+          confidence. 🦸‍♂️</br></br>
+
+          Beyond coding, I'm captivated by the boundless possibilities of AWS cloud computing. The idea of harnessing an
+          infinite toolbox of resources to build scalable and innovative solutions is simply awe-inspiring.
+          ☁️🧰</br></br>
+
+          Now, as a passout student, I'm eager to explore new opportunities and contribute to the tech world. Whether
+          it's further studies or diving into the workforce, I'm excited to make a positive impact with my
+          skills.</br></br>
+
+          If you're as passionate about tech as I am or have exciting projects in mind, let's connect and create
+          something amazing together! 🌟🤝💻
+        <p>
+          <b>Also Find me here:
+        </p>
+        <br>
+        <div class="social-icons">
+          <a href="https://www.instagram.com/______.sagar.____/" target="_blank">
+            <i class="fab fa-instagram"></i>
+          </a>
+          <a href="https://github.com/Sagar-Timalsena" target="_blank">
+            <i class="fab fa-github"></i>
+          </a>
+          <a href="https://www.linkedin.com/in/saagarr/" target="_blank">
+            <i class="fab fa-linkedin"></i>
+          </a>
+          <a href="http://timalsenasagar.com.np/Notes/" target="_blank">
+            <i class="fa-solid">File</i>
+          </a>
+        </div>
+
+      </div>
+    </section>
+
+    <hr class="m-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="education">
+      <div class="w-100">
+        <h2 class="mb-5">Education</h2>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+          <div class="resume-content">
+            <h3 class="mb-0">Bachelor In Computer Science And Information Technology(BSC.CSIT)</h3>
+            <div class="subheading mb-3">Academia International College</div>
+            <div>Web Development, Programming, Networking, Database Management System</div>
+
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">2017-2022</span>
+          </div>
+        </div>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between">
+          <div class="resume-content">
+            <h3 class="mb-0">Higher Secondary Examination Board(HSEB)</h3>
+            <div class="subheading mb-3">Oxbridge International College</div>
+            <div> Physics, Chemistry, Mathematics, Computer</div>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">2015-2017</span>
+          </div>
+        </div><br>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between">
+          <div class="resume-content">
+            <h3 class="mb-0"><b> School Level Certificate (SLC)</b></h3>
+            <div class="subheading mb-3">Shree Mahankali Devi Higher Secondary School</div>
+            <div> Social Studies,Mathematics, Computer</div>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">2005-2015</span>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <hr class="m-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="skills">
+      <div class="w-100">
+        <h2 class="mb-5">Skills</h2>
+
+        <div class="subheading mb-3"><b>Programming Languages &amp; Tools</b></div>
+        <ul class="list-inline dev-icons">
+          <li class="list-inline-item">
+            <i class="fab fa-html5"></i>
+          </li>
+          <li class="list-inline-item">
+            <i class="fab fa-css3-alt"></i>
+          </li>
+          <li class="list-inline-item">
+            <i class="fab fa-js-square"></i>
+          </li>
+
+
+          <li class="list-inline-item">
+            <i class="fab fa-aws"></i>
+          </li>
+          <li class="list-inline-item">
+            <i class="fab fa-git"></i>
+          </li>
+          <li class="list-inline-item">
+            <i class="fab fa-sql"></i>
+          </li>
+        </ul>
+
+
+        <br>
+        <br>
+        <div class="subheading mb-3"><b>Workflow</b></div>
+        <ul class="fa-ul mb-0">
+          <li>
+            <i class="fa-li fa fa-check"></i> Software Development
+          </li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="chat-gpt">
+      <div class="w-100">
+        <h2 class="mb-5">Ask Me Anything 🤔📝</h2>
+
+        <div>
+          <!-- Cool prompt for the input box -->
+          <input type="text" id="user-input" placeholder="Ask me a question... e.g., What's the meaning of life? 🌌" />
+          <button onclick="generateResponse()">Ask ✨</button>
+        </div>
+
+        <!-- Display the response from ChatGPT in a larger box -->
+        <div>
+          <!-- Fascinating response for the output box -->
+          <p id="chat-output">Sure, here's a captivating answer to your question: 🌟</br>
+            The meaning of life is a profound and timeless question that has intrigued philosophers, scientists, and
+            thinkers for centuries. While there's no definitive answer, many believe that life's purpose lies in seeking
+            happiness, love, and fulfillment. Embracing our passions, connecting with others, and making a positive
+            impact
+            on the world can give our lives profound meaning. Life is a journey of self-discovery, where we find purpose
+            through our experiences, relationships, and the pursuit of knowledge. So, let's cherish every moment,
+            explore
+            the wonders of the universe, and make our mark on this cosmic stage! 🌌✨🚀
+
+
+
+          </p>
+        </div>
+
+      </div>
+
+    </section>
+
+  </div>
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+  <!-- Plugin JavaScript -->
+  <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+  <!-- Custom scripts for this template -->
+  <script src="js/resume.min.js"></script>
+  <script>
+    // Function to handle the AI response
+    function generateResponse() {
+      // Replace the placeholder text with the AI-generated answer
+      document.getElementById('chat-output').innerHTML = 'This is the AI-generated answer.';
+    }
+  </script>
+  <script>
+    // Replace 'YOUR_API_KEY' with your actual API key
+    const apiKey = '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';
+    const endpoint = 'https://api.openai.com/v1/engines/davinci-codex/completions';
+
+    async function generateResponse() {
+      const userInput = document.getElementById('user-input').value;
+      const chatOutput = document.getElementById('chat-output');
+
+      try {
+        const response = await fetch(endpoint, {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+            'Authorization': `Bearer ${apiKey}`,
+          },
+          body: JSON.stringify({
+            prompt: userInput,
+            max_tokens: 150,
+          }),
+        });
+
+        if (!response.ok) {
+          throw new Error('Network response was not ok');
+        }
+
+        const data = await response.json();
+        debugger
+        chatOutput.innerText = data.choices[0].text.trim();
+      }
+
+      catch (error) {
+        console.error('Error:', error);
+        chatOutput.innerText = 'Oops, an error occurred. Please try again later.';
+      }
+    }
+  </script>
+
+</body>
+
+
+</html>
