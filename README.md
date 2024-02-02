@@ -9,7 +9,7 @@
 
 software developer based in Nepal, I have a passion for learning and a keen interest in programming languages and frameworks. I constantly strive to expand my knowledge and skills in the field of software development.
 
-Driven by a curiosity to explore new technologies and solve complex problems, I have a strong foundation in various programming languages and tools. My dedication and commitment to excellence have enabled me to excel in my role as a software developer at MyPay, where I actively contribute to the development of innovative software solutions.
+Driven by a curiosity to explore new technologies and solve complex problems, I have a strong foundation in various programming languages and tools. My dedication and commitment to excellence have enabled me to excel in my role as a software developer at AMTEV, where I actively contribute to the development of innovative software solutions.
 
 Outside of work, I am an avid learner, always seeking new opportunities to grow and expand my knowledge. I actively participate in online communities and enjoy sharing my insights and experiences with others. When I'm not coding, you can find me exploring the beautiful landscapes of Nepal or engaging in my hobbies, such as photography and hiking.
 
